@@ -1,0 +1,20 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Curso de Cypress Básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Ralf Prezia",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  }
+}
